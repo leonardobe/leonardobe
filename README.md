@@ -29,7 +29,7 @@
 
 <div align="left">
   <h3 style="text-align: left;">🗄️ Backend e banco de dados</h3>
-  <img src="https://skillicons.dev/icons?i=java,php,python,typescript,nodejs,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,typescript,nodejs,mysql,postgresql,golang" />
 </div>
 
 <div align="left">
